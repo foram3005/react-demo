@@ -1,0 +1,31 @@
+{
+	"name" : "React Demo",
+	"description" : "Demo code to learn basics of React",
+	"main" : "app.js",
+	"version" : "0.0.0",
+	"dependencies" : {
+		"express":"*",
+		"body-parser":"*"
+	},
+	"scripts" : {
+		"start":"node app.js"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : ""
+	},
+	"keywords": [
+		"react",
+		"tutorial",
+		"comment",
+		"example"
+	],
+	"author": "foram3005",
+	"bugs": {
+		"url": "https://github.com/reactjs/react-tutorial/issues"
+	},
+	"homepage": "https://github.com/reactjs/react-tutorial",
+	"engines" : {
+		"node" : "0.12.x"
+	}
+}
