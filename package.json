@@ -1,5 +1,5 @@
 {
-	"name" : "React Demo",
+	"name" : "React-Demo",
 	"description" : "Demo code to learn basics of React",
 	"main" : "app.js",
 	"version" : "0.0.0",
@@ -12,19 +12,20 @@
 	},
 	"repository" : {
 		"type" : "git",
-		"url" : ""
+		"url" : "https://github.com/foram3005/react-demo.git"
 	},
 	"keywords": [
 		"react",
 		"tutorial",
 		"comment",
-		"example"
+		"example",
+		"demo"
 	],
 	"author": "foram3005",
 	"bugs": {
-		"url": "https://github.com/reactjs/react-tutorial/issues"
+		"url": "https://github.com/foram3005/react-demo/issues"
 	},
-	"homepage": "https://github.com/reactjs/react-tutorial",
+	"homepage": "https://github.com/foram3005/react-demo",
 	"engines" : {
 		"node" : "0.12.x"
 	}
